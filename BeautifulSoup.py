@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 
 # Making a GET request
-r = requests.get('https://webscraper.io/test-sites/e-commerce/allinone')
+r = requests.get('https://www.flipkart.com/')
 
 # check status code for response received
 # success code - 200
