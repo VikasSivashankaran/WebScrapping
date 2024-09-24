@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7806ac9-c095-4de4-b9f8-78830cbbe112" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic2ParseHTML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic3tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic4Attributes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Scrap2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Scrap2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data_mining_comparison.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data_mining_comparison.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic5NavigationHTML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic6BS4_FindFunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic7BS4_FindallFunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic8BS4_FindAllmethod2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic4Attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic4Attributes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2mSwflM5u7BMb5oDe6YrzIaRBQP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,11 +39,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BS4_FindFunc.executor": "Run",
+    "Python.BS4_FindallFunc.executor": "Run",
     "Python.Basic2ParseHTML.executor": "Run",
     "Python.Basic3tags.executor": "Run",
     "Python.Basic4Attributes.executor": "Run",
+    "Python.Basic5NavigationHTML.executor": "Run",
+    "Python.Basic8BS4_FindAllmethod2.executor": "Run",
     "Python.code.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
