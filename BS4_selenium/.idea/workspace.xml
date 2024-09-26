@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7806ac9-c095-4de4-b9f8-78830cbbe112" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic5NavigationHTML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic6BS4_FindFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic7BS4_FindallFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic8BS4_FindAllmethod2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic9BS4_with_pandas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic4Attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic4Attributes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic2ParseHTML.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic2ParseHTML.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +40,14 @@
     "Python.Basic3tags.executor": "Run",
     "Python.Basic4Attributes.executor": "Run",
     "Python.Basic5NavigationHTML.executor": "Run",
+    "Python.Basic7BS4_FindallFunc.executor": "Run",
     "Python.Basic8BS4_FindAllmethod2.executor": "Run",
+    "Python.Basic9BS4_with_pandas.executor": "Run",
     "Python.code.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/WebScrapping/BS4_selenium"
   }
 }]]></component>
   <component name="SharedIndexes">
