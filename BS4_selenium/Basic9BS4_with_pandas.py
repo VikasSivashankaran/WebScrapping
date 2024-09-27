@@ -35,3 +35,7 @@ for i in Review:
     review = i.text
     review_list.append(review)
 print(review_list)
+
+
+df = pd.DataFrame({"Product Name":product_name,"Price":price_list,"Description":desc_list,"Reviews":review_list})
+df.to_csv("DatasetUsingPandas.csv")
