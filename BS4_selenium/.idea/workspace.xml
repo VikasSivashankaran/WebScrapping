@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7806ac9-c095-4de4-b9f8-78830cbbe112" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Basic9BS4_with_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic9BS4_with_pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic10BS4_extractdata_nested_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,24 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BS4_FindFunc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BS4_FindallFunc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic2ParseHTML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic3tags.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic4Attributes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic5NavigationHTML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic7BS4_FindallFunc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic8BS4_FindAllmethod2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Basic9BS4_with_pandas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.code.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/WebScrapping/BS4_selenium&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BS4_FindFunc.executor": "Run",
+    "Python.BS4_FindallFunc.executor": "Run",
+    "Python.Basic10BS4_extractdata_nested_html.executor": "Run",
+    "Python.Basic2ParseHTML.executor": "Run",
+    "Python.Basic3tags.executor": "Run",
+    "Python.Basic4Attributes.executor": "Run",
+    "Python.Basic5NavigationHTML.executor": "Run",
+    "Python.Basic7BS4_FindallFunc.executor": "Run",
+    "Python.Basic8BS4_FindAllmethod2.executor": "Run",
+    "Python.Basic9BS4_with_pandas.executor": "Run",
+    "Python.code.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/Big data project/loan project/Streamlit"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
